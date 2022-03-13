@@ -1,0 +1,24 @@
+{
+  "name": "systeminfotag",
+  "version": "0.0.1",
+  "description": "Show the real-time status of your system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXFOX/SystemInfoTag.git"
+  },
+  "keywords": [
+    "DesktopTag",
+    "Web"
+  ],
+  "author": "xfox",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/AXFOX/SystemInfoTag/issues"
+  },
+  "homepage": "https://github.com/AXFOX/SystemInfoTag#readme"
+}

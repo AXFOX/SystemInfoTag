@@ -9,7 +9,8 @@
 对于Debian/Ubuntu用户，在终端执行：
 `apt install python-tk`
 
-![image](https://user-images.githubusercontent.com/57279704/207580095-7bb5dd21-98ce-4c9d-8336-99c8d3c7acd6.png)
+![image](https://user-images.githubusercontent.com/57279704/207580920-de576a8f-a411-43d6-b94a-7666b04f1513.png)
+
 
 # Elglish User Guide
 This APP can be used in Linux/Windows,but Linux user need install `python-tk` lib 

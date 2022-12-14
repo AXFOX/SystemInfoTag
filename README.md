@@ -1,4 +1,4 @@
-> 本项目为“走进编程之旅期末考试”作业，学号：2114020114 （确切来说，是一年前的想法
+> 本项目为“走进编程之旅期末考试”作业，学号：2114020114 （确切来说，是[一年前的想法][1]刚好现在实现了）
 # 用户手册：
 > 本应用使用Python3 编写客户端，服务端使用了nodejs,推荐使用Node.js V14及以上版本执行。
 ## 兼容性测试
@@ -22,3 +22,4 @@ It's a lite C/S architecture applications to Show the real-time status of your s
 I have some computer devices,and I want know their system state by a desktop tag.
 Maybe you can found the better one than this.
 
+[1]:https://xfox.fun/todolist.html
